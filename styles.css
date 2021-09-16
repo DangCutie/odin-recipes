@@ -1,0 +1,26 @@
+/* styles for recipe site */
+
+h1 {
+    color: #800080;
+    background-color: #bfff00;
+}
+
+.link {
+    color: #bfff00;
+    background-color: #800080;
+}
+
+h3 {
+    color: #ff0090;
+    background-color: #bfff00;
+}
+
+li,
+p {
+    color: #800080;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
